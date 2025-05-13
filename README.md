@@ -1,6 +1,9 @@
 ## 👾 Gustavo Henrique
 
 **`Desenvolvedor FullStack`**
+
+Eu sou um desenvolvedor FullStack e faço desse perfil um local onde posto qualquer tipo de projeto sendo eles do mais simples até
+mais complexos.
 <!--
 **GustavoHGSilva/GustavoHGSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
