@@ -1,4 +1,4 @@
-## Gustavo Henrique 👋
+## 👾 Gustavo Henrique
 
 **`Desenvolvedor FullStack`**
 <!--
